@@ -6,4 +6,4 @@ num =
 
 for i in range(START, ):
   if i % num == 0:
-    print(i, end=' ')
+    print(i, end='3')
